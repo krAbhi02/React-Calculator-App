@@ -1,7 +1,7 @@
 
 ## THE SITE IS DEPLOYED USING " NETLIFY " AND I HAVE LISTED THE LINK FOR THE SAME BELOW .
 
-https://scintillating-platypus-4c4c9a.netlify.app/
+       =>  https://scintillating-platypus-4c4c9a.netlify.app/
 
 
 # Getting Started with Create React App
